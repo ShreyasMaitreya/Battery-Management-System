@@ -9,7 +9,7 @@ int Current, Voltage;
   float i,v,dI,dV,R,Q;
   float Ro = 1e-3; //Ro is internal resistance of cell at the time of manufacturing
   float a,b;
-  float capacity = 4.5*3600; 
+  float capacity = 4.5*3600; //if capacity is 4.5Ah then its value in coulomb is 4.5*3600 don't forget this conversion
   float SOC = 0;
   float SOH = 0;
   float soc;// addresses in eeprom

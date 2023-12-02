@@ -11,7 +11,7 @@ This repository contains the Arduino code for a Battery Management System (BMS) 
 - **Hardware Interrupts:** Manages multiple hardware interrupts for overcurrent protection.
 
 ## Hardware Requirements
-- Any compatible microcontroller (e.g., Arduino)
+- Any compatible microcontroller (e.g., ATMEGA328P, ATMEGA1280, ATMEGA2560, MSP430 or any other microcontroller compatible with the Arduino development platform.)
 - bq769x0 Battery Management IC
 - Shunt resistor
 - External circuitry for voltage and current measurement

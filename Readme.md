@@ -36,8 +36,5 @@ This repository contains the Arduino code for a Battery Management System (BMS) 
 ## Contributing
 Feel free to fork this project and contribute by submitting pull requests with improvements or by reporting issues.
 
-## License
-[Specify the license or state that it's unlicensed.]
-
 ## Disclaimer
 This code is provided "as is" and without any warranty. The author is not responsible for any damage caused by the use of this code.

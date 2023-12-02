@@ -1,7 +1,7 @@
 # Battery Management System (BMS) Code
 
 ## Overview
-This repository contains the Arduino code for a Battery Management System (BMS) designed to monitor and manage the health and state of a battery pack. The system uses the bq769x0 library for BMS operations and focuses on State of Charge (SOC), State of Health (SOH), and protection against overcurrent, overcharge, and overdischarge.
+This repository contains the Arduino code for a Battery Management System (BMS) designed to monitor and manage the health and state of a battery pack. The system uses the bq769x0 library for BMS operations and focuses on State of Charge (SOC), State of Health (SOH), and protection against overcurrent, overcharge, and overdischarge. It must be noted that this code is compatible ONLY with the BQ769X0 ICs from Texas Instruments.
 
 ## Features
 - **SOC Calculation:** Monitors and calculates the State of Charge of the battery.
